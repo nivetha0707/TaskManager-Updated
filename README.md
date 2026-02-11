@@ -1,6 +1,5 @@
 
-
-* **Task Management System (Java)** *
+## Task Management System (Java)
 
 A console-based Task Management application that allows users to register, login, and manage personal tasks with advanced logic for deletion and global tracking.
 
